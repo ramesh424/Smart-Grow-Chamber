@@ -1,0 +1,20 @@
+Component,Specification / model,Number,Cost per unit (INR),Total cost* (INR),Material type
+ESP32 development board,ESP32-WROOM-32 Wi-Fi/Bluetooth development board,1,300,300,Electronic
+Raspberry Pi board,Raspberry Pi board or equivalent single-board computer,1,3800,3800,Electronic
+Raspberry Pi camera module,5 MP CSI camera module or equivalent,1,300,300,Optical / electronic
+DHT11 sensor,Temperature and humidity sensor module,1,65,65,Sensor
+Soil moisture sensor,Resistive/capacitive soil moisture sensor module,1,100,100,Sensor
+Single-channel relay module,"5 V, 1-channel relay module",1,80,80,Electronic
+Four-channel relay module,"5 V, 4-channel relay module",1,140,140,Electronic
+LED grow light,Full-spectrum LED grow light / LED strip module,2,400,800,Electrical / lighting
+Peristaltic pump motor,12 V DC mini peristaltic pump,4,450,1800,Actuator / fluidic
+Exhaust fan,5 V / 12 V DC mini exhaust fan,1,250,250,Actuator / ventilation
+Liquid reservoir,Plastic storage container for water/treatment solution,4,50,200,Mechanical / fluidic
+Flexible tubing,Silicone/PVC tubing for liquid delivery,1 set,200,200,Fluidic
+Germination tray,Plastic seed germination tray,1,212,212,Mechanical
+Transparent chamber enclosure,Transparent plastic/acrylic enclosure,1,1100,1100,Mechanical
+Jumper wires and connectors,"Jumper wires, terminal connectors, wire joints",1 set,150,150,Electrical
+Power supply adapters,"5 V and 12 V DC adapters for controller, pumps, lights, and fan",2,400,800,Electrical
+MicroSD card,32 GB Class 10 microSD card,1,600,600,Electronic
+Mounting accessories,"Screws, brackets, tape, cable ties, adhesive supports",1 set,300,300,Mechanical
+,,,Total estimated hardware cost:,"11,197",
