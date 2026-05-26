@@ -1,4 +1,4 @@
-````markdown
+
 # Open-Source Automated Grow Chamber for Controlled Seed Germination Monitoring Using IoT-Based Sensing and Computer Vision
 
 <p align="center">
