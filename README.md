@@ -579,4 +579,4 @@ If you use this hardware design, firmware, software, or documentation, please ci
 | Sample images                     | Included                           |
 | Zenodo DOI                        | To be added after release archival |
 
-```
+
