@@ -107,18 +107,14 @@ flowchart TD
 smart-grow-chamber/
 │
 ├── README.md
-├── LICENSE
-├── CITATION.cff
 │
 ├── hardware/
 │   ├── wiring/
-│   │   ├── wiring_diagram.drawio
-│   │   ├── wiring_diagram.png
-│   │   └── wiring_diagram.pdf
+│   │  ├── wiring_diagram.png
+│   │  └── wiring_diagram.pdf
 │   │
 │   ├── mechanical/
 │   │   ├── chamber_layout.png
-│   │   ├── chamber_layout.pdf
 │   │   └── dimensions.md
 │   │
 │   └── bom/
@@ -133,12 +129,7 @@ smart-grow-chamber/
 ├── software/
 │   ├── pi_camera/
 │   │   └── image_capture.py
-│   │
 │   ├── computer_vision/
-│   │   └── germination_detection.py
-│   │
-│   └── config/
-│       └── config.yaml
 │
 ├── docs/
 │   ├── assembly/
@@ -149,22 +140,11 @@ smart-grow-chamber/
 │   │
 │   ├── validation/
 │   │   └── validation_protocol.md
-│   │
-│   └── figures/
-│       ├── system_architecture.png
-│       ├── control_flow.png
-│       ├── prototype_layout.png
-│       └── germination_workflow.png
 │
 ├── data/
 │   ├── sample_images/
 │   ├── processed_outputs/
-│   └── validation_results/
 │
-└── licenses/
-    ├── CERN-OHL-W-2.0.txt
-    ├── MIT.txt
-    └── CC-BY-4.0.txt
 ```
 
 ---
